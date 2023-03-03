@@ -919,9 +919,9 @@ footer {
   }
 
   .bgOne {
-    width: 400px;
+    width: 450px;
     position: absolute;
-    top: 560px;
+    top: 540px;
     left: 50%;
     margin-left: -256px;
     /* -webkit-transform: none;
@@ -949,11 +949,6 @@ footer {
 }
 
 @media (max-width: 400px) {
-  .Blurple {
-    height: 100vh;
-    display: none;
-  }
-  
   .browser {
     text-align: center;
     border-radius: 1000px;
@@ -962,7 +957,7 @@ footer {
   .bgOne {
      width: 350px;
     position: absolute;
-    top: 495px;
+    top: 585px;
     left: 50%;
     margin-left: -226px;
     /* -webkit-transform: none;
