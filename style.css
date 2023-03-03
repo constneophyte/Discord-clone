@@ -942,6 +942,12 @@ footer {
   }
 }
 
+@media (max-width: 423px) {
+  .popupForm {
+    width: 100%;
+  }
+}
+
 @media (max-width: 400px) {
   .Blurple {
     height: 140vh;
@@ -955,7 +961,7 @@ footer {
   .bgOne {
     width: 400px;
     position: absolute;
-    top: 650px;
+    top: 580px;
     left: 50%;
     margin-left: -256px;
     /* -webkit-transform: none;
