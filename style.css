@@ -949,17 +949,21 @@ footer {
 }
 
 @media (max-width: 400px) {
+  .Blurple {
+    height: 120vh;
+  }
+  
   .browser {
     text-align: center;
     border-radius: 1000px;
   }
 
   .bgOne {
-    width: 400px;
+     width: 350px;
     position: absolute;
-    top: 580px;
+    top: 495px;
     left: 50%;
-    margin-left: -256px;
+    margin-left: -226px;
     /* -webkit-transform: none;
     transform: none; */
     z-index: 1;
