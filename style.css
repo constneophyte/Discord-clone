@@ -949,10 +949,6 @@ footer {
 }
 
 @media (max-width: 400px) {
-  .Blurple {
-    height: 100vh;
-  }
-
   .browser {
     text-align: center;
     border-radius: 1000px;
