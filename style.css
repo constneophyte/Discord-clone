@@ -950,7 +950,8 @@ footer {
 
 @media (max-width: 400px) {
   .Blurple {
-    height: 120vh;
+    height: 100vh;
+    display: none;
   }
   
   .browser {
